@@ -1,0 +1,1 @@
+# Diese Datei enthält den Code zur Bereinigung und Normalisierung Ihrer Daten. Sie wird die Daten aus Ihrer MongoDB-Datenbank abrufen, sie bereinigen und normalisieren und sie dann in einem Format speichern, das von Ihrem Modell verwendet werden kann.

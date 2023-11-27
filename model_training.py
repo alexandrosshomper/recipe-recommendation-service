@@ -1,0 +1,1 @@
+# Diese Datei enthält den Code zum Trainieren Ihres Modells. Sie wird die bereinigten und normalisierten Daten verwenden, um ein Modell zu trainieren, das dann zur Erstellung von Rezeptempfehlungen verwendet werden kann.

@@ -1,0 +1,1 @@
+# Diese Datei enthält Ihren Flask-Server. Sie wird eine API bereitstellen, die von Ihrer MERN-Stack-Anwendung aufgerufen werden kann, um Rezeptempfehlungen zu erhalten.

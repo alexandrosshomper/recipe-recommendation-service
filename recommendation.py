@@ -1,0 +1,1 @@
+# Diese Datei enthält den Code zur Erstellung von Rezeptempfehlungen. Sie wird das trainierte Modell verwenden, um ähnliche Rezepte zu einem gegebenen Rezept zu finden.
